@@ -1,4 +1,4 @@
-# while-true-learn-solutions
+# While-True-Learn-Solutions
 ⭐Gold solutions for the game [While True: learn()](https://store.steampowered.com/app/619150/while_True_learn/). <br>
 🥇Gold Rush - Complete all tasks with a Gold rating 
 
